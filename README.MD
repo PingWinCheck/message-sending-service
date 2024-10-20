@@ -20,10 +20,10 @@
    SMTP_LOGIN=<Логин от вашего SMTP сервера>
    SMTP_SERVER=<Host от вашего SMTP сервера>
    SMTP_PORT=<Port от вашего SMTP сервера>
-   RMQ_USER=<Логин от вешего RabbitMQ>
-   RMQ_PASS=<Пароль от вешего RabbitMQ>
-   RMQ_HOST=<Host от вешего RabbitMQ>
-   RMQ_PORT=<Port от вешего RabbitMQ>
+   RMQ_USER=<Логин от вашего RabbitMQ>
+   RMQ_PASS=<Пароль от вашего RabbitMQ>
+   RMQ_HOST=<Host от вашего RabbitMQ>
+   RMQ_PORT=<Port от вашего RabbitMQ>
    QUEUE=<Название очереди из которой приложение будет получать сообщения>
    ~~~
 2) Выполнить команду poetry install
